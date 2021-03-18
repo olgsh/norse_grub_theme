@@ -1,0 +1,25 @@
+title-text: ""
+desktop-image: "background.jpg"
+desktop-color: "#000000"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Show the boot menu
++ boot_menu {
+  left = 51%
+  top = 30%
+  width = 49%
+  height = 60%
+  item_font = "elder-futhark-easy Regular 70"
+  item_color = "#cccccc"
+  selected_item_color = "#8a0303"
+  item_height = 100
+  icon_width = 160
+  item_icon_space = 0
+  item_padding = 0
+  item_spacing = 0
+  selected_item_pixmap_style = "select_*.png"
+}
