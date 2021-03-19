@@ -6,6 +6,7 @@ terminal-top: "0"
 terminal-width: "100%"
 terminal-height: "100%"
 terminal-border: "0"
+terminal-font: "Unifont Regular 16"
 
 # Show the boot menu
 + boot_menu {
